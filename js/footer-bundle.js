@@ -1,0 +1,1 @@
+"use strict";TweenMax.from(".title-1",2,{x:40,opacity:0,ease:Expo.easeInOut}),TweenMax.from(".title-2",2,{delay:.6,x:40,opacity:0,ease:Expo.easeInOut}),TweenMax.from(".text-bottom",2.8,{delay:1,y:80,opacity:0,ease:Expo.easeInOut});
